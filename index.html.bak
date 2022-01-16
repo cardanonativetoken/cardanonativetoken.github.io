@@ -52,7 +52,7 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Utility</a></li>
           <li><a class="nav-link   scrollto" href="#portfolio">Showcase</a></li>         
-          <li><a class="getstarted scrollto" href="#about">Get Airdrop</a></li>
+          <li><a class="getstarted scrollto" href="https://forms.gle/72DLEcu44NMMDVXq8">Get Airdrop</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -70,7 +70,7 @@
           <h2>The Community Token </h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+           <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -129,7 +129,7 @@
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              We hodl Cardano and believe in the ecosystem. CNT which stands for Cardano Native Token is a community token a DAO a token which is native in Cardano blockchain. Our Mission is to decentralise distribution.
+             We hodl Cardano and believe in the ecosystem. CNT which stands for Cardano Native Token is a community token a DAO token that is native in Cardano blockchain. Our Mission is to decentralize distribution.
             </p>
 			
               
@@ -509,7 +509,7 @@
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Any Roadmap? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Yes we will develope and progress together as a community. If you are a game developer you can integrate CNT in game. We also plan to airdrop future NFT for CNT holders. 
+                  Yes, we will develop and progress together as a community. If you are a game developer you can integrate CNT in games. We also plan to airdrop future NFT for CNT holders. 
                 </p>
               </div>
             </li>
@@ -518,7 +518,7 @@
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Can I accumulate more as a whale? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Our goal is to decentralise distribution. Meaning, everyone get equal share chance. There are 2 million plus wallets of Cardano. To Distribute 20 million tokens to 2 million wallets Everyone would get roughly 10 CNT each. That's a rough estimate.
+                  Our goal is to decentralize distribution. Meaning, everyone gets an equal share chance. There are 2 million-plus wallets of Cardano. To Distribute 20 million tokens to 2 million wallets Everyone would get roughly 10 CNT each. That's a rough estimate.
                 </p>
               </div>
             </li>
