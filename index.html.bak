@@ -51,7 +51,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Utility</a></li>
-          <li><a class="nav-link   scrollto" href="#Tokenomics">Tokenomics</a></li>         
+          <li><a class="nav-link   scrollto" href="#Airdrops">Airdrops</a></li>         
           <li><a class="getstarted scrollto" href="https://forms.gle/72DLEcu44NMMDVXq8">Get Airdrop</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -171,9 +171,7 @@ Our Roadmap starts with token distribution. </p>
               <h4><a href="">Rare Collectibles</a></h4>
               <p>There will ever be only 21 million tokens. The supply of Bitcoin</p>
 			  
-			  	<div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-				<img src="assets/img/rare.jpg" class="img-fluid animated" alt="">
-				</div>
+			  
 		
             </div>
 			
@@ -187,9 +185,7 @@ Our Roadmap starts with token distribution. </p>
               <h4><a href="">DAO</a></h4>
               <p>Governed by a community organized around a specific set of rules enforced on a blockchain</p>
 			  
-			  <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-				<img src="assets/img/dao.jpg" class="img-fluid animated" alt="">
-				</div>
+			 
 				
 				
             </div>
@@ -201,9 +197,7 @@ Our Roadmap starts with token distribution. </p>
               <h4><a href="">Passive Income</a></h4>
               <p>Exclusive airdrops on token holders. Stay tuned</p>
 			  
-			    <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-				<img src="assets/img/income.jpg" class="img-fluid animated" alt="">
-				</div>
+			   
 			  
             </div>
           </div>
@@ -326,11 +320,11 @@ Our Roadmap starts with token distribution. </p>
 	
 
    <!-- ======= Pricing Section =======  -->
-    <section id="Tokenomics" class="pricing">
+    <section id="Airdrops" class="pricing">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Tokenomics</h2>
+          <h2>Airdrops</h2>
           <p>As we are community of Cardano enthusiast, we're working together. 
 We will work together with Transparently as a key.
 Our Roadmap starts with token distribution. 
@@ -344,14 +338,14 @@ Our Roadmap starts with token distribution.
               <h3>Website airdrops</h3>
               <h4><sup>CNT</sup>100-5<span>Until 1M is distributed</span></h4>
 			  <p>Website airdrops will allocate in 5 stage's.
-You will receive 1.44A back plus CNT token. Outstanding amount of 0.56 Ada will go to liquidity, where it will be accumulated in all next distribution stages. It will help to provide liquidity when token listed on DEX.
+You will receive 1 ada back plus CNT token. The dust will go CNT Treasury.
 </p>
               <ul>
-                <li><i class="bx bx-check"></i> Stage 1: 100 CNT - 2 ada</li>
-                <li><i class="bx bx-check"></i> Stage 2: 50 CNT - 3 ada</li>
-                <li><i class="bx bx-check"></i> Stage 3: 25 CNT - 4 ada</li>
-				<li><i class="bx bx-check"></i> Stage 4: 10 CNT - 5 ada</li>
-				<li><i class="bx bx-check"></i> Stage 5: 5 CNT - 6 ada</li>
+                <li><i class="bx bx-check"></i> <strike>Stage 1: 100 CNT - 2 ada </strike></li>
+                <li><i class="bx bx-check"></i> Stage 2: 50 CNT - 4 ada</li>
+                <li><i class="bx bx-check"></i> Stage 3: 25 CNT - 6 ada</li>
+				<li><i class="bx bx-check"></i> Stage 4: 10 CNT - 8 ada</li>
+				<li><i class="bx bx-check"></i> Stage 5: 5 CNT - 10 ada</li>
                  </ul>
               <a href="https://forms.gle/x3dzWcYaSDR54LMD8" class="buy-btn">Get Airdrop</a>
             </div>
@@ -370,12 +364,7 @@ Top 10 donators to be awarded as follow..
                 <li><i class="bx bx-check"></i> 500 CNT</li>
                 <li><i class="bx bx-check"></i> 250 CNT</li>
                 <li><i class="bx bx-check"></i> 100 CNT</li>
-                <li><i class="bx bx-check"></i> 50 CNT</li>
-				<li><i class="bx bx-check"></i> 25 CNT</li>
-				<li><i class="bx bx-check"></i> 20 CNT</li>
-				<li><i class="bx bx-check"></i> 15 CNT</li>
-				<li><i class="bx bx-check"></i> 10 CNT</li>
-				<li><i class="bx bx-check"></i> 5 CNT</li>
+                <li><i class="bx bx-check"></i> 50 CNT</li>				
               </ul>
               <a href="https://forms.gle/mJSnt5yYDH3A3eFz5" class="buy-btn">Donate</a>
             </div>
@@ -384,9 +373,9 @@ Top 10 donators to be awarded as follow..
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
               <h3>DripDropz Airdrop</h3>
-              <h4><sup>CNT</sup>10<span>10 CNT until 1M distributed</span></h4>
+              <h4><sup>CNT</sup>5<span>5 CNT until 1M distributed</span></h4>
               <ul>
-                <li><i class="bx bx-check"></i>10 CNT per airdrop</li>
+                <li><i class="bx bx-check"></i>5 CNT per airdrop</li>
 						
                 
               </ul>
@@ -413,20 +402,25 @@ Top 10 donators to be awarded as follow..
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Who is this token for ? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">What is this project? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
-                  If you are a pool operator, a Cardano fan, an NFT creator. Anyone who loves Cardano can receive free CNT tokens.
+                  A project to build, develop, support new and existing Cardano native token and NFT project.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">What is the mission? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">What CNT Treasury? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Bringing together the Cardano community.
+                  CNT Treasury is a vault where all the dust from token sales is accumulated for Liquidity of CNT and to acquire NFT assets. Which will increase the value of CNT 
                 </p>
+				
+				   <div class="col-lg-6 order-1 order-lg-2">
+          <img src="assets/img/vault.jpg">
+        </div>
+		
               </div>
             </li>
 
@@ -449,10 +443,10 @@ Top 10 donators to be awarded as follow..
             </li>
 
             <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Listing on exchange ? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Any roadmap? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                   With upcoming DEX. Definitely!
+                   Our roadmap is not linear as we continually focus on investing in NFT game projects and supporting upcoming native token projects.  You can think of it as an infinite circle of rinse and repeat in investing in other projects.
                 </p>
               </div>
             </li>
@@ -615,7 +609,8 @@ Top 10 donators to be awarded as follow..
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
         Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-		<a href="testsite.html" class="details-link" title="More Details"><i class="bx bx-link"></i>Test site</a>
+		
+		<a href='https://www.freepik.com/vectors/box'>Box vector created by macrovector - www.freepik.com</a>
       </div>
     </div>
   </footer><!-- End Footer -->
