@@ -70,7 +70,7 @@
           <h1>Cardano Native Token CNT</h1>
           <h2>A community to support, develop and invest in all Cardano Native Token Projects</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="https://buynfts.exchange/faucets/cnt/" class="btn-get-started scrollto">Get Airdrop</a>
+            <a href="airdrop.html" class="btn-get-started scrollto">Get Airdrop</a>
            <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
           </div>
         </div>
@@ -350,7 +350,7 @@
 		   <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
               <h3>Treasury</h3>
-              <h4><sup>DONATION</sup><span>Special NFT reward</span></h4>
+              <h4><sup>DONORS</sup><span>Special NFT reward</span></h4>
 
               <ul>              
                 <li><i class="bx bx-check"></i>NFT reward only 100 available</li>
@@ -367,7 +367,7 @@
               <h3>DripDropz</h3>
               <h4><sup>CNT</sup>1<span>Our Partner Pool ANTRX </span></h4>
 			  <p>More Details Coming Soon ..
-</p>
+											</p>
               <ul>              
                 <li><i class="bx bx-check"></i> Coming Soon</li>
                 
