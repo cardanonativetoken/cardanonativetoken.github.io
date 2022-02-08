@@ -42,7 +42,7 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Test Page</a></h1>
+      <h1 class="logo me-auto"><a href="index.html">Airdrop Page</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -63,11 +63,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          <h1>Test and Development Page</h1>
+          <h1>Airdrop</h1>
           
-          <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="" class="btn-get-started scrollto">Mint</a>
-           </div>
+         
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
           <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
@@ -79,26 +77,40 @@
 
   <main id="main">
 
-  <section id="team" class="team section-bg">
+  <section class="team section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Team</h2>
-          <p>Various backgrounds of Cardano ecosystem</p>
+          <h2>Send 4 ADA and you get back:
+1.36 ADA + 50 CNT tokens</h2>
+         
         </div>
+		
+		
 
         <div class="row">
 
           <div>
-            <div class="member align-items-start" data-aos="zoom-in" data-aos-delay="100">
+            <div class="member d-flex" data-aos="zoom-in" data-aos-delay="100">
              
-                <h4> Game</h4>
-             
+              
                
-              <a class="e-widget no-button" href="https://gleam.io/er6Bg/monthly-giveaway" rel="nofollow">Monthly Giveaway</a>
+				<div class="input-group bg-success">
+				<input type="text" class="form-control is-valid" style="color: green" value="addr1vx9hkfrpphudd734jvxlhumagugjlyulccyrhtn2jwza33c8705k4" placeholder="addr1vx9hkfrpphudd734jvxlhumagugjlyulccyrhtn2jwza33c8705k4" id="copy-input">
+				<span class="input-group-btn">
+					<button class="btn btn-default btn-success" type="button" id="copy-button" data-toggle="tooltip" data-placement="button" title="Copy" onclick="myCpy()">
+					Copy
+					</button>
+				</span>
+				</div>
            
+	
+		   
+		   
             </div>
           </div>
+		  
+		  
 
          
 
@@ -110,7 +122,42 @@
 
       </div>
     </section><!-- End Team Section -->
+	
+	<div class="container section-title">
+	<img src="https://chart.googleapis.com/chart?cht=qr&amp;chs=420x420&amp;chld=L|1&amp;chl=addr1vx9hkfrpphudd734jvxlhumagugjlyulccyrhtn2jwza33c8705k4" width="250" height="250">
+	
+	</div>
+	
+	 <!-- ======= Pricing Section =======  -->
+    <section id="Airdrops" class="pricing">
+      <div class="container" data-aos="fade-up">
 
+        <div class="section-title">
+          <h2>Transactions</h2>
+		  
+		  <div>
+		  
+		  </div>
+         
+				<a href="https://adaex.org/address/addr1vx9hkfrpphudd734jvxlhumagugjlyulccyrhtn2jwza33c8705k4" class="buy-btn center">View Transactions</a>
+				<a href="https://pool.pm/addr1vyf685nrqptual9j3w5nytuhvh2a2sud9tvftcmwca0elecuhmpq9" class="buy-btn center">View Faucet Balance</a>
+				
+       
+        </div>
+				
+				
+				
+		  
+		
+		  
+		  
+ 
+ 
+
+        </div>
+
+      </div>
+    </section><!-- End Pricing Section --> 
 
   </main>
   <!-- Vendor JS Files -->
@@ -124,7 +171,16 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-  <script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
+  
+  <script language="javascript">
+function myCpy() {
+  var copyText = document.getElementById("copy-input");
+  copyText.select();
+  document.execCommand("copy");
+  alert("Copied: " + copyText.value);
+}
+</script>
+
 
 </body>
 
