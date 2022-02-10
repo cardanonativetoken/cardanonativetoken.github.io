@@ -52,7 +52,7 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Utility</a></li>
           <li><a class="nav-link   scrollto" href="airdrop.html">Airdrop</a></li>
-		<li><a class="nav-link   scrollto" href="contest.html">Contest</a></li>   		  
+			  
           <li><a class="getstarted scrollto" href="mint.html">NFT</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -68,7 +68,7 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
           <h1>Cardano Native Token CNT</h1>
-          <h2>A community to support, develop and invest in all Cardano Native Token Projects</h2>
+          <h2>A community to support, develop and invest in all Cardano projects</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="airdrop.html" class="btn-get-started scrollto">Get Airdrop</a>
            <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
@@ -368,7 +368,7 @@
             <div class="box">
               <h3>Vending Machine</h3>
               <h4><sup>CNT</sup>1<span>Stake to these pools</span></h4>
-			  <p>And claim tokens (Drip Dropz alternative)								</p>
+			  <p>And claim CNT token							</p>
               <ul>              
                 <li><i class="bx bx-check"></i> ANP, ANTRX, BBHMM, CHEF, CLYDE, CNFT, ITZA, OTG, PRIDE, PSB, PSYA, SEA, SEAL, STOIC</li>
 				
