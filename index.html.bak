@@ -72,55 +72,54 @@
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="airdrop.html" class="btn-get-started scrollto">Get Airdrop</a>
            <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
-          </div>
+          
+		 
+		  
+		  
+		  </div>
         </div>
+		 	
+		
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
           <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
         </div>
+		
+		
+		
+		
+		
       </div>
+	  
     </div>
 
+		
   </section><!-- End Hero -->
 
   <main id="main">
 
-    <!-- ======= Clients Section ======= 
-    <section id="clients" class="clients section-bg">
+    <section id="clients">
       <div class="container">
 
         <div class="row" data-aos="zoom-in">
 
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
-          </div>
+         
 
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
-          </div>
+          	<div class="d-flex justify-content-center container-sm">
+			<h4>As Seen on<h4>
+			<div > <a href="https://nftcalendar.io/event/cardano-native-token/"><img src="\assets\img\nft-calendar-transparent.png"> </img> </a><div>
 
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-          </div>
+  
+		</div>
 
         </div>
 
       </div>
     </section><!-- End Cliens Section --> 
-
+	
+	
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
+	
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -421,8 +420,8 @@
 				   <div class="de-flex justify-content-center p-6" >
 					<img src="assets/img/vault.jpg">
 					</div>
-					<h3 style="text-align:center">
-					Donate any dust any tokens or NFT. Thank you</h3><br>
+					<h4 style="text-align:center">
+					DONATE TOKENS OR NFT AND HELP US GROW</h4><br>
 							
 							<div class="container p-2 my-2 border ">
 							
@@ -592,7 +591,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
             </ul>
           </div>
--->
+--> 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Social Networks</h4>
             <p>Join our friendly community to learn more about the project</p>
@@ -602,12 +601,15 @@
               <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>  
 			  <a href="https://discord.gg/jyT7VZkF9c" class="discord"><i class="bx bxl-discord"></i></a>  			  
               <a href="https://t.me/+M7ZzlBRCzSo2ODA1" class="telegram"><i class="bx bxl-telegram"></i></a>
+			   
             </div>
           </div>
 
         </div>
       </div>
     </div>
+	
+	
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
