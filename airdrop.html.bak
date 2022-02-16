@@ -86,32 +86,7 @@
          
         </div>
 		
-		<div class="section-title">
-          <h2>Airdrop</h2>
-          <p>Our Roadmap starts with the token distribution. 
-</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-            <div class="box">
-              <h3>Faucet</h3>
-              <h4><sup>AIRDROP</sup><span>Until 1M is distributed</span></h4>
-			 
-
-              <ul>
-                <li><i class="bx bx-check"></i> <strike>Stage 1: 100 CNT - 2 ada </strike></li>
-                <li><i class="bx bx-check"></i> Stage 2: 50 CNT - 4 ada</li>
-                <li><i class="bx bx-check"></i> Stage 3: 25 CNT - 6 ada</li>
-				<li><i class="bx bx-check"></i> Stage 4: 10 CNT - 8 ada</li>
-				
-                 </ul>
-              <a href="https://buynfts.exchange/faucets/cnt/" class="buy-btn">Get Airdrop</a>
-            </div>
-          </div>
-		  
-		  
+		
 
         <div class="row">
 
